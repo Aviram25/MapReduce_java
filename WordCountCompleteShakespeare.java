@@ -3,9 +3,9 @@
  * in Shakespeare's complete works while filtering out stop words.
  * 
  * Authors: 
- * - Aviram Dhagat (011)
- * - Ishaan Singh Shekhawat (021)
- * - Vineet Gupta (058)
+ * -- Aviram Dhagat (011)
+ * 
+ * 
  * 
  * Prerequisites:
  * - Stop words file (stop_words.txt) uploaded to HDFS at /user/cloudera/
